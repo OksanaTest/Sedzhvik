@@ -35,4 +35,18 @@ public class SelectionSort {
         show(selectionSort.arr);
     }
 }
+/*
+
+Для упорядочения массива длиной N сортировка выбором использует ~N2/2 сравнений и N перестановок.
+
+Время выполнения не чувствительно к входным данным
+
+Перемещение данных минимально.
+
+Data structure	Array
+Worst-case performance	О(n2)
+Best-case performance	О(n2)
+Average performance	О(n2)
+Worst-case space complexity	О(n) total, O(1) auxiliary
+ */
 
