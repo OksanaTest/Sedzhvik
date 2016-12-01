@@ -1,4 +1,4 @@
-package com;
+package com.sort;
 
 public class SelectionSort {
     private Integer[] arr = {23, 45, -34, 786, 12, 1, -456};
