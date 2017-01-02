@@ -20,7 +20,7 @@ public class SelectionSort {
     private static void exch(Comparable[] a, int i, int j) {
         Comparable t = a[i];
         a[i] = a[j];
-        a[j] = t;
+        j] = t;
     }
 
     private static void show(Comparable[] a) { // Вывод массива в одной строке,
